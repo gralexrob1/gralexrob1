@@ -21,6 +21,6 @@ Final year student at CentraleSupélec.
 
 I'm intereseted in the mathematical approach to artificial intelligence.
 
-🔭 Currently working on Graph Contrastive Learning.
-🌱 Currently learning about Artificial Intelligence (Deep Learning, NLP, Reinforcement Learning, Graph Learning, Computer Vision).
+🔭 Currently working on Graph Contrastive Learning.  
+🌱 Currently learning about Artificial Intelligence (Deep Learning, NLP, Reinforcement Learning, Graph Learning, Computer Vision).  
 📫 How to reach me: alexandre.robin81@gmail.com
