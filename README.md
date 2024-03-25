@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alex👋
 
 <!--
 **gralexrob1/gralexrob1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have a Master's Degree in Mathematics from Université Paris-Dauphine 
+and a Master's Degree in Artificial Intelligence from CentraleSupélec.
+Final year student at CentraleSupélec.
+
+I'm intereseted in the mathematical approach to artificial intelligence.
+
+🔭 Currently working on Graph Contrastive Learning.
+🌱 Currently learning about Artificial Intelligence (Deep Learning, NLP, Reinforcement Learning, Graph Learning, Computer Vision).
+📫 How to reach me: alexandre.robin81@gmail.com
