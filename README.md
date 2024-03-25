@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a Master's Degree in Mathematics from Université Paris-Dauphine 
-and a Master's Degree in Artificial Intelligence from CentraleSupélec.
-Final year student at CentraleSupélec.
+Master's Degree in Artificial Intelligence from CentraleSupélec.
+Master's Degree in Mathematics from Université Paris-Dauphine.  
 
 I'm intereseted in the mathematical approach to artificial intelligence.
 
 🔭 Currently working on Graph Contrastive Learning.  
+  
 🌱 Currently learning about Artificial Intelligence (Deep Learning, NLP, Reinforcement Learning, Graph Learning, Computer Vision).  
+  
 📫 How to reach me: alexandre.robin81@gmail.com
