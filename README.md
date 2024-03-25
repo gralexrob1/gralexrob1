@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Master's Degree in Artificial Intelligence from CentraleSupélec.
+Master's Degree in Artificial Intelligence from CentraleSupélec.  
 Master's Degree in Mathematics from Université Paris-Dauphine.  
 
 I'm intereseted in the mathematical approach to artificial intelligence.
